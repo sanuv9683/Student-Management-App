@@ -11,12 +11,12 @@ Better communucation with the internal process and employees
 
 
 ## Tech/framework used
-Java
-Java EE
-Spring
-Java Script
-Html
-CSS
+* Java
+* Java EE
+* Spring
+* Java Script
+* Html
+* CSS
 
 Clone the Source Code from github..
 
