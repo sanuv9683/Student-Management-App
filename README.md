@@ -9,9 +9,9 @@ Better communucation with the internal process and employees
  
 ## Screenshots
 
-![Image of Sanu](https://github.com/sanuv9683/Student-Management-App/blob/master/img/A1.gif)
+![Image of Sanu](https://github.com/sanuv9683/Student-Management-App/blob/master/img/A1.png)
 
-![Image of Sanu](https://github.com/sanuv9683/Student-Management-App/blob/master/img/A2.gif)
+![Image of Sanu](https://github.com/sanuv9683/Student-Management-App/blob/master/img/A2.png)
 
 ## Tech/framework used
 * Java
