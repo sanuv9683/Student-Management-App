@@ -1,6 +1,6 @@
 <%-- 
     Document   : sidebar
-    Created on : Jan 17, 2018, 7:29:58 AM
+    Created on : Jan 17, 2015, 7:29:58 AM
     Author     : Sanu Vithanage
 --%>
 
@@ -145,7 +145,7 @@
         <!-- Footer -->
         <div class="legal">
             <div class="copyright">
-                &copy; 2018 - 2019 <a href="javascript:void(0);">&nbsp;&nbsp;  I J S E</a>.
+                &copy; 2015 - 2019 <a href="javascript:void(0);">&nbsp;&nbsp;  I J S E</a>.
             </div>
             <div class="version">
                 <b>Powered by: </b> <a href="http://ijse.lk/">Sanu Vithanage</a>
