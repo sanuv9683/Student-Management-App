@@ -14,19 +14,14 @@ Better communucation with the internal process and employees
 Java
 Java EE
 Spring
+Java Script
+Html
+CSS
 
-
-
-## Features
-
-
-## Installation
-
-
-
+Clone the Source Code from github..
 
 Hope someone finds this helpful someday...! :wink:
 
-#### Developed by Sanu Vithanage
+#### Developed by Sanu Vithanage ©-2015
 
 
