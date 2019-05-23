@@ -9,6 +9,9 @@ Better communucation with the internal process and employees
  
 ## Screenshots
 
+![Image of Sanu](https://github.com/sanuv9683/Movie-Reservation-System/blob/master/img/A1.gif)
+
+![Image of Sanu](https://github.com/sanuv9683/Movie-Reservation-System/blob/master/img/A2.gif)
 
 ## Tech/framework used
 * Java
