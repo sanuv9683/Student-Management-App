@@ -11,9 +11,11 @@ Better communucation with the internal process and employees
 
 
 ## Tech/framework used
-As a follow-up project of IJSE I designed and develop this application to manage the internal
-process of the business; from this system, it could manage all students GPA, transcripts, projects
-and the schedules of lectures.
+Java
+Java EE
+Spring
+
+
 
 ## Features
 
