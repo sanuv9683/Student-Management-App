@@ -25,7 +25,7 @@ and the schedules of lectures.
 
 
 
-Hope someone finds this helpful someday...! :wink
+Hope someone finds this helpful someday...! :wink:
 
 #### Developed by Sanu Vithanage
 
