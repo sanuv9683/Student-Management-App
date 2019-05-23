@@ -11,6 +11,8 @@ Better communucation with the internal process and employees
 
 ![Image of Sanu](https://github.com/sanuv9683/Student-Management-App/blob/master/img/A1.png)
 
+------
+
 ![Image of Sanu](https://github.com/sanuv9683/Student-Management-App/blob/master/img/A2.png)
 
 ## Tech/framework used
